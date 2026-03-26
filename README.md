@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Bryan Research — How It Works</title>
+  <title>Bryan's Research — How It Works</title>
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -191,7 +191,7 @@
   <div class="container">
     <header>
       <div class="badge">Research Service</div>
-      <h1>Bryan Research</h1>
+      <h1>Bryan's Research</h1>
       <p class="subtitle">Human-led market &amp; competitor intelligence — delivered in 24 hours</p>
     </header>
 
