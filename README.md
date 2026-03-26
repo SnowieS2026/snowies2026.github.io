@@ -250,7 +250,7 @@
 
     <div class="cta">
       <a href="https://docs.google.com/forms/d/e/1FAIpQLSeg5j36Q-x2TrHVWpfz5iIrMAB2J-GUKDUT-QB--ECKAb4VDg/viewform?usp=publish-editor" target="_blank">Start Your Research Request →</a>
-      <p>Or DM me directly on LinkedIn</p>
+      <p>Or <a href="https://www.linkedin.com/in/bryan-small-49689722b/" target="_blank" style="color: #58a6ff; text-decoration: underline;">DM me directly on LinkedIn</a></p>
     </div>
 
     <div class="footer">
@@ -260,3 +260,4 @@
   </div>
 </body>
 </html>
+
